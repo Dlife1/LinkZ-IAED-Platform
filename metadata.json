@@ -1,0 +1,8 @@
+{
+  "name": "LinkZ IAED Platform",
+  "description": "An Intelligent Autonomous Equity Distribution platform for music distribution, rights management, blockchain provenance, and AI-powered analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
